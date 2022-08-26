@@ -14,6 +14,12 @@ h1{
     margin:5rem;
 }
 
+.para{
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-top: 2rem;
+}
+
 #btn-check {
     margin-top: 2.5rem;
     width: 79px;
