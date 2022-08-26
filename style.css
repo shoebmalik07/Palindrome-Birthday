@@ -25,6 +25,11 @@ h1{
     color: rgb(169, 73, 110);
     font-weight: bold;
 }
+#btn-check:hover{
+    background-color: white;
+    color: black;
+}
+
 #outputDiv {
     font-size: 1.2rem;
     font-weight: bold;
